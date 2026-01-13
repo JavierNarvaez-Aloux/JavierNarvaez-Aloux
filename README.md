@@ -1,4 +1,4 @@
-### ¡Hola! Soy Javier-Aloux 👋
+### ¡Hola! Soy Javier Narvaez Camarillo 👋
 #### 💻 Full Stack Developer | Backend Architecture Enthusiast
 
 Soy un Ingeniero de Software apasionado por la construcción de ecosistemas digitales complejos. Mi enfoque principal se centra en la escalabilidad, el rendimiento y la escritura de código limpio.
@@ -45,11 +45,11 @@ Desarrollo de una plataforma de gestión empresarial full stack.
 
 ### 📈 GitHub Stats
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Javier Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=JavierNarvaez-Aloux&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Javier Stats" />
 </p>
 * 🌱 Aprendiendo continuamente nuevas tecnologías para optimizar el rendimiento de backend.
 
 ---
 
 ### 📊 Actividad en GitHub
-![Estadísticas de Javier](https://github-readme-stats.vercel.app/api?username=TU_NUEVO_USUARIO&show_icons=true&theme=radical&hide=issues)
+![Estadísticas de Javier](https://github-readme-stats.vercel.app/api?username=JavierNarvaez-Aloux&show_icons=true&theme=radical&hide=issues)
