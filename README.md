@@ -26,27 +26,3 @@ Actualmente, me dedico al desarrollo de **arquitecturas backend robustas utiliza
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
-
-### 💼 Experiencia y Proyectos Clave
-
-#### 🚀 Arquitectura Backend & Desarrollo Full Stack (Actualidad)
-Me encuentro desarrollando soluciones integrales donde lidero la estructuración del lado del servidor.
-* **Enfoque:** Diseño de **estructuras escalables con Node.js**.
-* **Logros:** Implementación de APIs RESTful eficientes y manejo avanzado de peticiones asíncronas para optimizar tiempos de respuesta.
-* **Integración:** Conexión fluida con interfaces modernas en React.
-
-#### 🎓 Rema Consultores (Proyecto Universitario)
-Desarrollo de una plataforma de gestión empresarial full stack.
-* **Stack:** Vue 3 (Composition API), Node.js y MongoDB.
-* **Rol:** Full Stack Developer.
-* **Impacto:** Se diseñó una base de datos NoSQL (MongoDB) flexible para manejar grandes volúmenes de datos no estructurados, conectada a un frontend reactivo y modular con Vue 3.
-
----
-
-### 📊 Actividad en GitHub
-![Estadísticas de Javier](https://github-readme-stats.vercel.app/api?username=JavierNarvaez-Aloux&show_icons=true&theme=radical&hide=issues)
-
-### 🛠️ Lenguajes más usados
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JavierNarvaez-Aloux&layout=compact&theme=radical)
-
-* 🌱 Aprendiendo continuamente nuevas tecnologías para optimizar el rendimiento de backend.
