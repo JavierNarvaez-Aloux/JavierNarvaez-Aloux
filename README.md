@@ -1,31 +1,52 @@
-### Hola, soy Javier 👋
-**Full Stack Developer**
+### ¡Hola! Soy Javier-Aloux 👋
+#### 💻 Full Stack Developer | Backend Architecture Enthusiast
 
-Soy un desarrollador de software enfocado en la arquitectura y desarrollo de aplicaciones web. Actualmente me encuentro trabajando y colaborando en **múltiples proyectos** de alto impacto, integrando soluciones modernas tanto en Frontend como en Backend.
+Soy un Ingeniero de Software apasionado por la construcción de ecosistemas digitales complejos. Mi enfoque principal se centra en la escalabilidad, el rendimiento y la escritura de código limpio.
 
-Me especializo en crear ecosistemas digitales eficientes utilizando tecnologías robustas y escalables.
+Actualmente, me dedico al desarrollo de **arquitecturas backend robustas utilizando Node.js**, implementando lógica de negocio compleja y optimización de datos en múltiples proyectos privados de alto impacto.
 
 ---
 
-### 🚀 Tech Stack
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### 🛠️ Arsenal Tecnológico
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+**Backend & Database Architecture**
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Frontend & UI**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Herramientas & DevOps**
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-### ⚡ Actividad Actual
-* 🔭 Trabajando en la arquitectura de soluciones web escalables (React/Laravel).
-* 💾 Implementando bases de datos híbridas (SQL/NoSQL).
+### 💼 Experiencia y Proyectos Clave
+
+#### 🚀 Arquitectura Backend & Desarrollo Full Stack (Actualidad)
+Me encuentro desarrollando soluciones integrales donde lidero la estructuración del lado del servidor.
+* **Enfoque:** Diseño de **estructuras escalables con Node.js**.
+* **Logros:** Implementación de APIs RESTful eficientes y manejo avanzado de peticiones asíncronas para optimizar tiempos de respuesta.
+* **Integración:** Conexión fluida con interfaces modernas en React.
+
+#### 🎓 Rema Consultores (Proyecto Universitario)
+Desarrollo de una plataforma de gestión empresarial full stack.
+* **Stack:** Vue 3 (Composition API), Node.js y MongoDB.
+* **Rol:** Full Stack Developer.
+* **Impacto:** Se diseñó una base de datos NoSQL (MongoDB) flexible para manejar grandes volúmenes de datos no estructurados, conectada a un frontend reactivo y modular con Vue 3.
+
+---
+
+### 📈 GitHub Stats
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Javier Stats" />
+</p>
 * 🌱 Aprendiendo continuamente nuevas tecnologías para optimizar el rendimiento de backend.
 
 ---
