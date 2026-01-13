@@ -43,13 +43,7 @@ Desarrollo de una plataforma de gestión empresarial full stack.
 
 ---
 
-### 📈 GitHub Stats
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=JavierNarvaez-Aloux&show_icons=true&theme=radical&hide=issues&count_private=true" alt="Javier Stats" />
-</p>
-* 🌱 Aprendiendo continuamente nuevas tecnologías para optimizar el rendimiento de backend.
-
----
-
 ### 📊 Actividad en GitHub
-![Estadísticas de Javier](https://github-readme-stats.vercel.app/api?username=JavierNarvaez-Aloux&show_icons=true&theme=radical&hide=issues)
+![Estadísticas de Javier](https://github-readme-stats.vercel.app/api?username=JavierNarvaez-Aloux&show_icons=true&theme=radical&hide=issues&count_private=true)
+
+* 🌱 Aprendiendo continuamente nuevas tecnologías para optimizar el rendimiento de backend.
