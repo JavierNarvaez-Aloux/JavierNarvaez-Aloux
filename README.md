@@ -3,7 +3,7 @@
 
 Soy un Ingeniero de Software apasionado por la construcción de ecosistemas digitales complejos. Mi enfoque principal se centra en la escalabilidad, el rendimiento y la escritura de código limpio.
 
-Actualmente, me dedico al desarrollo de **arquitecturas backend robustas utilizando Node.js**, implementando lógica de negocio compleja y optimización de datos en múltiples proyectos privados de alto impacto.
+Actualmente, desarrollo **arquitecturas backend robustas con Node.js**, implementando lógica de negocio compleja y optimización de datos en múltiples proyectos de alto impacto.
 
 ---
 
@@ -24,5 +24,28 @@ Actualmente, me dedico al desarrollo de **arquitecturas backend robustas utiliza
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black)
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+### 💼 Experiencia y Proyectos Destacados
+
+#### 🚀 FARMATEK (En Desarrollo)
+**Rol:** Backend Developer Specialist
+Plataforma robusta de **Punto de Venta (POS) y E-commerce**.
+* **Arquitectura:** Diseño de microservicios y APIs escalables utilizando **Node.js**.
+* **Datos:** Gestión de grandes volúmenes de transacciones e inventarios con **MongoDB**.
+* **Enfoque:** Optimización del lado del servidor para garantizar estabilidad y velocidad en tiempo real.
+
+#### 📂 REMA Consultores (Finalizado)
+**Rol:** Full Stack Developer
+Sistema de gestión documental inteligente con integración Cloud.
+* **Tech Stack:** Vue 3 (Frontend) + Node.js (Backend) + MongoDB.
+* **Feature Clave:** Integración avanzada con **Google Drive API** para la manipulación, carga y gestión automatizada de archivos en la nube directamente desde la aplicación.
+
+#### 🎓 SSONLINE (Finalizado)
+**Rol:** Full Stack Developer
+Plataforma de gestión administrativa para procesos universitarios (Servicio Social).
+* **Tech Stack:** React (Frontend) + Node.js (Backend).
+* **Solución:** Digitalización completa del flujo de trámites estudiantiles, mejorando la experiencia de usuario y reduciendo tiempos de respuesta administrativa.
 
 ---
