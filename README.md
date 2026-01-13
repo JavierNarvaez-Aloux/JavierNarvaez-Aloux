@@ -32,7 +32,7 @@ Actualmente, desarrollo **arquitecturas backend robustas con Node.js**, implemen
 #### 🚀 FARMATEK (En Desarrollo)
 **Rol:** Backend Developer Specialist
 Plataforma robusta de **Punto de Venta (POS) y E-commerce**.
-* **Arquitectura:** Diseño de microservicios y APIs escalables utilizando **Node.js**.
+* **Arquitectura:** Diseño de APIs escalables utilizando **Node.js**.
 * **Datos:** Gestión de grandes volúmenes de transacciones e inventarios con **MongoDB**.
 * **Enfoque:** Optimización del lado del servidor para garantizar estabilidad y velocidad en tiempo real.
 
